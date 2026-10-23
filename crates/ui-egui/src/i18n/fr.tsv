@@ -3432,7 +3432,7 @@ curves	Smooth	Lisser
 	Ask On Paste	Demander au collage
 	Assign Profile	Attribuer un profil
 	At	À
-	Auto Scale	Mise à l'échelle automatique
+	Auto Scale	Échelle automatique
 	Auto-Align Layers	Aligner automatiquement les calques
 	Auto-Blend Layers	Fusionner automatiquement les calques
 	Autosave failed: {error}	Échec de l'enregistrement automatique : {error}
@@ -3773,7 +3773,7 @@ curves	Smooth	Lisser
 	Highlight Tone	Ton des hautes lumières
 	Horizontal Only	Horizontal uniquement
 	Hotspot	Point chaud
-	Hsb	TSB
+	Hsb	TSV
 	Hsl	TSL
 	Hsl Hue	Teinte TSL
 	Hsl Lum	Luminance TSL

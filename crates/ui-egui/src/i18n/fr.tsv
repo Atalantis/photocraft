@@ -3773,11 +3773,11 @@ curves	Smooth	Lisser
 	Highlight Tone	Ton des hautes lumières
 	Horizontal Only	Horizontal uniquement
 	Hotspot	Point chaud
-	Hsb	TSV
-	Hsl	TSL
-	Hsl Hue	Teinte TSL
-	Hsl Lum	Luminance TSL
-	Hsl Sat	Saturation TSL
+	Hsb	HSB
+	Hsl	HSL
+	Hsl Hue	Teinte HSL
+	Hsl Lum	Luminance HSL
+	Hsl Sat	Saturation HSL
 	Image Balance	Équilibre de l'image
 	Image Processor	Processeur d'images
 	Image compositor: {processor}	Compositeur d'images : {processor}
